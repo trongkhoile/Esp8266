@@ -4,11 +4,11 @@
 
 // Cấu hình Wi-Fi
 #define WIFI_SSID "Victory"
-#define WIFI_PASSWORD "012117764"
+#define WIFI_PASSWORD ""
 
 // Thông tin Firebase
-#define FIREBASE_HOST "dht11-43ff2-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "oy5GxM6IzuC52aEGwJ5Sc4mAlpXUbpJ1wpnpb2lM"
+#define FIREBASE_HOST ""
+#define FIREBASE_AUTH ""
 
 // Cấu hình cảm biến DHT11
 #define DHTPIN D5          // Chân dữ liệu của DHT11 
